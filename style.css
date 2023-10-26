@@ -10,8 +10,8 @@ body {
 }
 /* Estilo para o cabeçalho da página */
 header {
-    background-color: #333;
-    color: white;
+    background-color: #5e19ff;
+    color: rgb(66, 233, 255);
     text-align: center;
     padding: 20px;
     position: fixed; /* Torna o cabeçalho fixo na parte superior da tela. */
