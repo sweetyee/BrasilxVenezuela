@@ -62,13 +62,3 @@ a {
     color: #007bff;
 }
 
-/* Estilo para o rodapé da página */
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-}
