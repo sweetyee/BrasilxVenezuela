@@ -10,8 +10,8 @@ body {
 }
 /* Estilo para o cabeçalho da página */
 header {
-    background-color: #1952bdc5;
-    color: rgb(66, 233, 255);
+    background-color: rgb(3, 61, 168);
+    color: rgb(66, 132, 255)
     text-align: center;
     padding: 20px;
     position: fixed; /* Torna o cabeçalho fixo na parte superior da tela. */
@@ -37,7 +37,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: rgb(17, 185, 190);
+    color: rgb(17, 98, 190);
 }
 
 main {
