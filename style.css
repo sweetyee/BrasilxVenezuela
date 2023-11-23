@@ -10,7 +10,7 @@ body {
 }
 /* Estilo para o cabeçalho da página */
 header {
-    background-color: #5e19ff;
+    background-color: #1952bdc5;
     color: rgb(66, 233, 255);
     text-align: center;
     padding: 20px;
@@ -37,7 +37,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: white;
+    color: rgb(17, 185, 190);
 }
 
 main {
@@ -59,6 +59,6 @@ li {
 
 a {
     text-decoration: none;
-    color: #007bff;
+    color: #007bffc5;
 }
 
