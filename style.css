@@ -86,3 +86,9 @@ a {
     display: flex;
     justify-content: space-around;
 }
+
+.sla{
+    width: 600px;
+    height: auto;
+    border: 1px;
+}
