@@ -72,4 +72,6 @@ a {
     width: 600px;
     height: auto;
     border: 1px ;
+    margin-left: auto;
+    margin-right: auto;
 }
