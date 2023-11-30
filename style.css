@@ -67,3 +67,9 @@ a {
     color: #ffffff;
 }
 
+. capa{
+    
+    width: 300px;
+    height: auto;
+    border: 1px ;
+}
